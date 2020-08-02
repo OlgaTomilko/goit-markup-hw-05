@@ -84,6 +84,10 @@ img {
   margin-right: 85px;
 }
 
+.header {
+  border-bottom: 1px solid #ececec;
+}
+
 .header .container {
   display: flex;
   align-items: center;
@@ -707,5 +711,5 @@ img {
 
 .gallery-list-items:hover .gallery-list-text {
   /* opacity: 1; */
-  transform: translateX(0);
+  transform: translateY(0);
 }
